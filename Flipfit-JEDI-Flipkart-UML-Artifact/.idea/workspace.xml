@@ -4,30 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5713cdc-635e-430c-a0fd-708f3954dcc4" name="Changes" comment="" />
+    <list default="true" id="a5713cdc-635e-430c-a0fd-708f3954dcc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/application/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/application/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/application/GYMOwner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/bean/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/bean/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/bean/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/bean/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/AdminBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/AdminBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/AdminBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/AdminBusinessImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/CustomerBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/CustomerBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/CustomerBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/CustomerBusinessImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/GYMOwnerBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/GYMOwnerBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/GYMOwnerBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Flipkart-JEDI-Java-POS/src/com/flipfit/business/GYMOwnerBusinessImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oQS9bXVAHDJdCh2priSYhd2a8O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/yash.agarwal1/IdeaProjects/Flipfit-JEDI-Flipkart-UML-Artifact/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yash.agarwal1/IdeaProjects/Flipfit-JEDI-Flipkart-UML-Artifact/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
